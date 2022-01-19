@@ -1,0 +1,853 @@
+2022-01-06 15:24:16 INFO  LoggersExample:20 - Opened OpenCart Application successfully
+  2022-01-06 15:25:46 INFO  LoggersExample:20 - Opened OpenCart Application successfully
+  2022-01-06 15:26:05 INFO  LoggersExample:20 - Opened OpenCart Application successfully
+  2022-01-06 15:47:22 INFO  LoggersExample:20 - Opened OpenCart Application successfully
+  2022-01-06 16:39:57 INFO  LoggersExample:21 - Opened OpenCart Application successfully
+  2022-01-06 17:11:10 INFO  LoggersExample:80 - Print subtotoal successfully
+  2022-01-06 17:12:53 INFO  LoggersExample:81 - Print subtotoal successfully
+  2022-01-06 17:16:24 INFO  LoggersExample:78 - Cleared existing count
+  2022-01-06 17:16:24 INFO  LoggersExample:80 - Updated value of count 10 is given
+  2022-01-06 17:16:25 INFO  LoggersExample:83 - Updated successfully
+  2022-01-06 17:16:25 INFO  LoggersExample:86 - Print subtotoal successfully
+  2022-01-06 17:17:49 INFO  LoggersExample:78 - Cleared existing count
+  2022-01-06 17:17:49 INFO  LoggersExample:80 - Updated value of count 10 is given
+  2022-01-06 17:17:50 INFO  LoggersExample:83 - Updated successfully
+  2022-01-06 17:17:50 INFO  LoggersExample:86 - Print subtotoal successfully
+  2022-01-06 17:17:50 INFO  LoggersExample:88 - Chrome closed successfully!!!
+  2022-01-06 17:30:05 INFO  LoggersExample:80 - Cleared existing count
+  2022-01-06 17:30:05 INFO  LoggersExample:82 - Updated value of count 10 is given
+  2022-01-06 17:30:06 INFO  LoggersExample:85 - Updated successfully
+  2022-01-06 17:30:06 INFO  LoggersExample:88 - Print subtotoal successfully
+  2022-01-06 17:30:06 INFO  LoggersExample:97 - Chrome closed successfully!!!
+  2022-01-07 10:40:17 INFO  LoggersExample:80 - Cleared existing count
+  2022-01-07 10:40:17 INFO  LoggersExample:82 - Updated value of count 10 is given
+  2022-01-07 10:40:17 INFO  LoggersExample:85 - Updated successfully
+  2022-01-07 10:40:17 INFO  LoggersExample:88 - Print subtotoal successfully
+  2022-01-07 10:40:17 INFO  LoggersExample:97 - Chrome closed successfully!!!
+  2022-01-07 10:50:26 INFO  LoggersExample:97 - Cleared existing count
+  2022-01-07 10:50:26 INFO  LoggersExample:99 - Updated value of count 10 is given
+  2022-01-07 10:50:26 INFO  LoggersExample:102 - Updated successfully
+  2022-01-07 10:50:26 INFO  LoggersExample:105 - Print subtotoal successfully
+  2022-01-07 10:50:27 INFO  LoggersExample:114 - Chrome closed successfully!!!
+  2022-01-07 10:51:51 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 10:51:52 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 10:51:52 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 10:51:52 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 10:52:48 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 10:52:48 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 10:52:48 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 10:52:48 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 10:53:27 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 10:53:27 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 10:53:27 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 10:53:27 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 10:59:24 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 10:59:24 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 10:59:24 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 10:59:24 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:00:15 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:00:15 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:00:16 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:00:16 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:01:33 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:01:33 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:01:34 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:01:34 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:01:35 INFO  LoggersExample:107 - Chrome closed successfully!!!
+  2022-01-07 11:03:39 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:03:39 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:03:39 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:03:39 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:03:40 INFO  LoggersExample:107 - Chrome closed successfully!!!
+  2022-01-07 11:04:08 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:04:08 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:04:08 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:04:08 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:07:36 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:07:36 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:07:36 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:07:36 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:07:37 INFO  LoggersExample:108 - Chrome closed successfully!!!
+  2022-01-07 11:11:02 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:11:02 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:11:02 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:11:02 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:12:29 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:12:29 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:12:29 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:12:29 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:21:58 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:21:58 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:21:59 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:21:59 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:21:59 INFO  LoggersExample:119 - Chrome closed successfully!!!
+  2022-01-07 11:23:12 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:23:12 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:23:14 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:23:14 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:23:16 INFO  LoggersExample:119 - Chrome closed successfully!!!
+  2022-01-07 11:24:25 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:24:25 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:24:27 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:24:27 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:24:29 INFO  LoggersExample:116 - Chrome closed successfully!!!
+  2022-01-07 11:29:16 INFO  LoggersExample:79 - Cleared existing count
+  2022-01-07 11:29:16 INFO  LoggersExample:81 - Updated value of count 10 is given
+  2022-01-07 11:29:18 INFO  LoggersExample:84 - Updated successfully
+  2022-01-07 11:29:18 INFO  LoggersExample:87 - Print subtotoal successfully
+  2022-01-07 11:29:20 INFO  LoggersExample:136 - Chrome closed successfully!!!
+  2022-01-07 14:10:01 INFO  LoggersExample:42 - Chrome closed successfully!!!
+  2022-01-07 14:12:10 INFO  LoggersExample:42 - Chrome closed successfully!!!
+  2022-01-07 14:13:12 INFO  LoggersExample:42 - Chrome closed successfully!!!
+  2022-01-07 14:17:14 INFO  LoggersExample:32 - Chrome opened successfully!!!
+  2022-01-07 14:17:16 INFO  LoggersExample:58 - Chrome closed successfully!!!
+  2022-01-07 14:18:22 INFO  LoggersExample:32 - Chrome opened successfully!!!
+  2022-01-07 14:18:23 INFO  LoggersExample:57 - Chrome closed successfully!!!
+  2022-01-07 14:22:23 INFO  LoggersExample:32 - Chrome opened successfully!!!
+  2022-01-07 14:22:26 INFO  LoggersExample:91 - Chrome closed successfully!!!
+  2022-01-07 14:24:08 INFO  LoggersExample:32 - Chrome opened successfully!!!
+  2022-01-07 14:24:09 INFO  LoggersExample:49 - Converted to Euro currency successfully
+  2022-01-07 14:24:10 INFO  LoggersExample:63 - Clicked on pound drop-down link
+  2022-01-07 14:24:10 INFO  LoggersExample:67 - Converted to pound currency successfully
+  2022-01-07 14:24:10 INFO  LoggersExample:79 - Clicked on Dollar drop-down link
+  2022-01-07 14:24:10 INFO  LoggersExample:83 - Converted to US Dollar currency successfully
+  2022-01-07 14:24:10 INFO  LoggersExample:91 - Chrome closed successfully!!!
+  2022-01-07 14:25:00 INFO  LoggersExample:32 - Chrome opened successfully!!!
+  2022-01-07 14:25:00 INFO  LoggersExample:43 - Clicked on Euro drop-down link
+  2022-01-07 14:25:00 INFO  LoggersExample:49 - Converted to Euro currency successfully
+  2022-01-07 14:25:01 INFO  LoggersExample:63 - Clicked on pound drop-down link
+  2022-01-07 14:25:01 INFO  LoggersExample:67 - Converted to pound currency successfully
+  2022-01-07 14:25:02 INFO  LoggersExample:79 - Clicked on Dollar drop-down link
+  2022-01-07 14:25:02 INFO  LoggersExample:83 - Converted to US Dollar currency successfully
+  2022-01-07 14:25:02 INFO  LoggersExample:91 - Chrome closed successfully!!!
+  2022-01-07 18:25:53 INFO  LoggersExample:105 - Cleared existing count
+  2022-01-07 18:25:53 INFO  LoggersExample:107 - Updated value of count 10 is given
+  2022-01-07 18:25:54 INFO  LoggersExample:110 - Updated successfully
+  2022-01-07 18:25:54 INFO  LoggersExample:113 - Print subtotoal successfully
+  2022-01-07 18:25:54 INFO  LoggersExample:158 - Chrome closed successfully!!!
+  2022-01-07 18:27:01 INFO  LoggersExample:105 - Cleared existing count
+  2022-01-07 18:27:01 INFO  LoggersExample:107 - Updated value of count 10 is given
+  2022-01-07 18:27:02 INFO  LoggersExample:110 - Updated successfully
+  2022-01-07 18:27:02 INFO  LoggersExample:113 - Print subtotoal successfully
+  2022-01-07 18:27:02 INFO  LoggersExample:158 - Chrome closed successfully!!!
+  2022-01-10 15:18:30 INFO  LoggersExample:152 - Chrome closed successfully!!!
+  2022-01-10 15:20:37 INFO  LoggersExample:152 - Chrome closed successfully!!!
+  2022-01-10 15:27:26 INFO  LoggersExample:152 - Chrome closed successfully!!!
+  2022-01-10 15:29:40 INFO  LoggersExample:152 - Chrome closed successfully!!!
+  2022-01-10 15:37:46 INFO  LoggersExample:152 - Chrome closed successfully!!!
+  2022-01-10 16:08:05 INFO  LoggersExample:152 - Chrome closed successfully!!!
+  2022-01-13 16:22:42 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-13 16:22:45 INFO  LoggersExample:109 - Tested Euro currency functionality.
+  2022-01-13 16:22:45 INFO  LoggersExample:116 - Tested Pound currency functionality.
+  2022-01-13 16:22:46 INFO  LoggersExample:123 - Tested USDollar functionality.
+  2022-01-13 16:23:46 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-13 16:23:49 INFO  LoggersExample:109 - Tested Euro currency functionality.
+  2022-01-13 16:23:50 INFO  LoggersExample:116 - Tested Pound currency functionality.
+  2022-01-13 16:23:51 INFO  LoggersExample:123 - Tested USDollar functionality.
+  2022-01-13 16:23:52 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-13 16:23:52 INFO  LoggersExample:80 - Tested Update items in cart functionality.
+  2022-01-13 16:23:53 INFO  LoggersExample:88 - Testedwhether final price is correct.
+  2022-01-13 16:23:55 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-13 16:23:55 INFO  LoggersExample:95 - Tested Add Coupon functionality.
+  2022-01-13 16:23:56 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-13 16:23:56 INFO  LoggersExample:102 - Tested Remove item from cart functionality.
+  2022-01-13 16:23:56 INFO  LoggersExample:130 - Browser closed successfully!!!
+  2022-01-14 13:54:47 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-14 13:54:51 INFO  LoggersExample:109 - Tested Euro currency functionality.
+  2022-01-14 13:54:52 INFO  LoggersExample:116 - Tested Pound currency functionality.
+  2022-01-14 13:54:53 INFO  LoggersExample:123 - Tested USDollar functionality.
+  2022-01-14 13:54:55 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 13:54:56 INFO  LoggersExample:80 - Tested Update items in cart functionality.
+  2022-01-14 13:54:57 INFO  LoggersExample:88 - Testedwhether final price is correct.
+  2022-01-14 13:54:59 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 13:54:59 INFO  LoggersExample:95 - Tested Add Coupon functionality.
+  2022-01-14 13:55:00 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 13:55:00 INFO  LoggersExample:102 - Tested Remove item from cart functionality.
+  2022-01-14 13:55:00 INFO  LoggersExample:130 - Browser closed successfully!!!
+  2022-01-14 15:19:21 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:20:06 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:21:09 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:21:58 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:22:38 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:24:14 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:25:26 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:28:05 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:30:02 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 15:30:59 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-14 15:32:47 INFO  LoggersExample:48 - Browser opened successfully!!!
+  2022-01-14 15:32:55 INFO  LoggersExample:80 - Tested Euro currency functionality.
+  2022-01-14 15:32:58 INFO  LoggersExample:87 - Tested Pound currency functionality.
+  2022-01-14 15:32:59 INFO  LoggersExample:94 - Tested USDollar functionality.
+  2022-01-14 15:33:02 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:33:04 INFO  LoggersExample:101 - Tested Update items in cart functionality.
+  2022-01-14 15:33:06 INFO  LoggersExample:109 - Testedwhether final price is correct.
+  2022-01-14 15:33:10 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:33:10 INFO  LoggersExample:116 - Tested Add Coupon functionality.
+  2022-01-14 15:33:12 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:33:12 INFO  LoggersExample:123 - Tested Remove item from cart functionality.
+  2022-01-14 15:33:13 INFO  LoggersExample:131 - Browser closed successfully!!!
+  2022-01-14 15:36:01 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 15:36:08 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 15:36:10 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 15:36:11 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 15:36:14 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:36:15 INFO  LoggersExample:103 - Tested Update items in cart functionality.
+  2022-01-14 15:36:17 INFO  LoggersExample:111 - Testedwhether final price is correct.
+  2022-01-14 15:36:21 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:36:21 INFO  LoggersExample:118 - Tested Add Coupon functionality.
+  2022-01-14 15:36:23 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:36:23 INFO  LoggersExample:125 - Tested Remove item from cart functionality.
+  2022-01-14 15:36:23 INFO  LoggersExample:147 - Browser closed successfully!!!
+  2022-01-14 15:41:11 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 15:41:19 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 15:41:21 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 15:41:23 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 15:41:25 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:41:27 INFO  LoggersExample:103 - Tested Update items in cart functionality.
+  2022-01-14 15:41:30 INFO  LoggersExample:111 - Testedwhether final price is correct.
+  2022-01-14 15:41:34 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:41:34 INFO  LoggersExample:118 - Tested Add Coupon functionality.
+  2022-01-14 15:41:36 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:41:36 INFO  LoggersExample:125 - Tested Remove item from cart functionality.
+  2022-01-14 15:41:37 INFO  LoggersExample:147 - Browser closed successfully!!!
+  2022-01-14 15:46:38 INFO  LoggersExample:92 - Browser opened successfully!!!
+  2022-01-14 15:51:09 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 15:51:17 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 15:51:17 INFO  LoggersExample:123 - Tested Euro currency functionality.
+  2022-01-14 15:51:19 INFO  LoggersExample:130 - Tested Pound currency functionality.
+  2022-01-14 15:51:20 INFO  LoggersExample:137 - Tested USDollar functionality.
+  2022-01-14 15:51:22 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:51:22 INFO  LoggersExample:123 - Tested Euro currency functionality.
+  2022-01-14 15:51:23 INFO  LoggersExample:144 - Tested Update items in cart functionality.
+  2022-01-14 15:51:23 INFO  LoggersExample:130 - Tested Pound currency functionality.
+  2022-01-14 15:51:25 INFO  LoggersExample:152 - Testedwhether final price is correct.
+  2022-01-14 15:51:25 INFO  LoggersExample:137 - Tested USDollar functionality.
+  2022-01-14 15:51:27 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 15:51:29 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 15:51:29 INFO  LoggersExample:159 - Tested Add Coupon functionality.
+  2022-01-14 15:51:29 INFO  LoggersExample:144 - Tested Update items in cart functionality.
+  2022-01-14 15:51:31 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:51:31 INFO  LoggersExample:166 - Tested Remove item from cart functionality.
+  2022-01-14 15:51:31 INFO  LoggersExample:174 - Browser closed successfully!!!
+  2022-01-14 15:51:31 INFO  LoggersExample:152 - Testedwhether final price is correct.
+  2022-01-14 15:51:37 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 15:51:37 INFO  LoggersExample:166 - Tested Remove item from cart functionality.
+  2022-01-14 15:51:38 INFO  LoggersExample:174 - Browser closed successfully!!!
+  2022-01-14 16:07:05 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 16:07:11 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 16:09:19 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 19:15:25 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 19:15:29 INFO  LoggersExample:91 - Browser opened successfully!!!
+  2022-01-14 19:54:36 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 19:54:45 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 19:54:48 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 19:54:50 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 19:54:53 INFO  LoggersExample:64 - Updated count of item in cart
+  2022-01-14 19:54:56 INFO  LoggersExample:103 - Tested Update items in cart functionality.
+  2022-01-14 19:54:58 INFO  LoggersExample:111 - Testedwhether final price is correct.
+  2022-01-14 19:55:04 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 19:55:04 INFO  LoggersExample:118 - Tested Add Coupon functionality.
+  2022-01-14 19:55:07 INFO  LoggersExample:73 - Clicked on remove button
+  2022-01-14 19:55:07 INFO  LoggersExample:125 - Tested Remove item from cart functionality.
+  2022-01-14 19:55:07 INFO  LoggersExample:133 - Browser closed successfully!!!
+  2022-01-14 22:41:24 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 22:41:34 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 22:41:37 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 22:41:39 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 22:42:07 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 22:42:10 INFO  LoggersExample:109 - Tested Update items in cart functionality.
+  2022-01-14 22:42:12 INFO  LoggersExample:117 - Testedwhether final price is correct.
+  2022-01-14 22:42:17 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 22:42:17 INFO  LoggersExample:124 - Tested Add Coupon functionality.
+  2022-01-14 22:42:19 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 22:42:19 INFO  LoggersExample:131 - Tested Remove item from cart functionality.
+  2022-01-14 22:42:19 INFO  LoggersExample:139 - Browser closed successfully!!!
+  2022-01-14 22:44:04 INFO  LoggersExample:50 - Browser opened successfully!!!
+  2022-01-14 22:44:10 INFO  LoggersExample:82 - Tested Euro currency functionality.
+  2022-01-14 22:44:11 INFO  LoggersExample:89 - Tested Pound currency functionality.
+  2022-01-14 22:44:13 INFO  LoggersExample:96 - Tested USDollar functionality.
+  2022-01-14 22:44:41 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 22:44:43 INFO  LoggersExample:109 - Tested Update items in cart functionality.
+  2022-01-14 22:44:46 INFO  LoggersExample:117 - Testedwhether final price is correct.
+  2022-01-14 22:44:56 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 22:44:56 INFO  LoggersExample:124 - Tested Add Coupon functionality.
+  2022-01-14 22:44:58 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 22:44:58 INFO  LoggersExample:131 - Tested Remove item from cart functionality.
+  2022-01-14 22:44:58 INFO  LoggersExample:139 - Browser closed successfully!!!
+  2022-01-14 23:17:51 INFO  LoggersExample:44 - Browser opened successfully!!!
+  2022-01-14 23:20:36 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:22:26 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:22:58 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:23:42 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:25:10 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:26:17 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:26:42 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:27:33 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:29:35 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:30:05 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:30:14 INFO  LoggersExample:69 - Shopping cart is empty!
+  2022-01-14 23:30:15 INFO  LoggersExample:74 - Added product to cart
+  2022-01-14 23:30:52 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:31:23 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-14 23:31:32 INFO  LoggersExample:69 - Shopping cart is empty!
+  2022-01-14 23:31:36 INFO  LoggersExample:75 - Added product to cart
+  2022-01-14 23:32:58 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-14 23:33:08 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-14 23:33:11 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-14 23:33:13 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-14 23:33:16 INFO  LoggersExample:109 - Shopping cart is empty! Added product
+  2022-01-14 23:33:21 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 23:33:24 INFO  LoggersExample:122 - Tested Update items in cart functionality.
+  2022-01-14 23:33:27 INFO  LoggersExample:130 - Testedwhether final price is correct.
+  2022-01-14 23:33:32 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 23:33:32 INFO  LoggersExample:137 - Tested Add Coupon functionality.
+  2022-01-14 23:33:35 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 23:33:35 INFO  LoggersExample:144 - Tested Remove item from cart functionality.
+  2022-01-14 23:33:35 INFO  LoggersExample:152 - Browser closed successfully!!!
+  2022-01-14 23:34:12 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-14 23:34:20 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-14 23:34:22 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-14 23:34:24 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-14 23:34:29 INFO  LoggersExample:70 - Updated count of item in cart
+  2022-01-14 23:34:31 INFO  LoggersExample:122 - Tested Update items in cart functionality.
+  2022-01-14 23:34:33 INFO  LoggersExample:130 - Testedwhether final price is correct.
+  2022-01-14 23:34:38 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-14 23:34:38 INFO  LoggersExample:137 - Tested Add Coupon functionality.
+  2022-01-14 23:34:41 INFO  LoggersExample:79 - Clicked on remove button
+  2022-01-14 23:34:41 INFO  LoggersExample:144 - Tested Remove item from cart functionality.
+  2022-01-14 23:34:41 INFO  LoggersExample:152 - Browser closed successfully!!!
+  2022-01-15 11:44:41 INFO  LoggersExample:78 - Browser closed successfully!!!
+  2022-01-15 11:50:26 INFO  LoggersExample:82 - Browser closed successfully!!!
+  2022-01-15 11:53:24 INFO  LoggersExample:82 - Browser closed successfully!!!
+  2022-01-15 11:54:20 INFO  LoggersExample:42 - Desktop module is enable
+  2022-01-15 11:54:26 INFO  LoggersExample:80 - Browser closed successfully!!!
+  2022-01-15 12:56:15 INFO  LoggersExample:36 - Tejal
+  2022-01-15 12:56:15 INFO  LoggersExample:45 - Borase
+  2022-01-15 12:56:15 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-15 12:56:15 INFO  LoggersExample:66 - 8698077555
+  2022-01-15 12:56:15 INFO  LoggersExample:74 - tejal
+  2022-01-15 12:56:15 INFO  LoggersExample:82 - tejal
+  2022-01-15 13:11:29 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:11:31 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:11:32 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:11:33 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:11:33 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:11:34 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:11:35 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:11:35 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:11:36 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:11:36 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:11:37 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:13:04 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:13:07 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:13:07 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:13:08 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:13:08 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:13:09 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:13:10 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:13:10 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:13:12 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:13:12 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:13:12 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:14:10 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:14:12 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:14:13 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:14:13 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:14:14 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:14:15 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:14:15 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:14:16 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:14:17 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:14:17 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:14:17 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:14:46 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:14:48 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:14:49 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:14:49 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:14:50 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:14:51 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:14:52 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:14:52 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:14:54 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:14:54 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:14:54 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:15:30 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:15:33 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:15:34 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:15:34 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:15:35 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:15:36 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:15:37 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:15:37 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:18:03 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:18:05 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:18:06 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:18:07 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:18:08 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:18:09 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:18:09 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:21:02 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:21:05 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:21:05 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:21:06 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:21:07 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:21:08 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:21:09 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:21:11 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-15 13:21:11 INFO  LoggersExample:136 - Tested Add Coupon functionality.
+  2022-01-15 13:21:11 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:21:11 INFO  LoggersExample:143 - Tested Remove item from cart functionality.
+  2022-01-15 13:21:11 INFO  LoggersExample:151 - Browser closed successfully!!!
+  2022-01-15 13:22:52 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-15 13:22:55 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-15 13:22:55 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-15 13:22:56 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-15 13:22:56 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-15 13:22:57 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-15 13:22:58 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-15 13:22:58 INFO  LoggersExample:128 - Testedwhether final price is correct.
+  2022-01-15 13:23:00 INFO  LoggersExample:135 - Coupon applied and deducted 10%
+  2022-01-15 13:23:00 INFO  LoggersExample:135 - Tested Add Coupon functionality.
+  2022-01-15 13:23:00 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-15 13:23:00 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-15 13:23:00 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-16 19:01:53 INFO  LoggersExample:44 - Browser opened successfully!!!
+  2022-01-16 19:01:53 INFO  LoggersExample:44 - Browser opened successfully!!!
+  2022-01-16 19:03:16 INFO  LoggersExample:44 - Browser opened successfully!!!
+  2022-01-16 19:05:02 INFO  LoggersExample:44 - Browser opened successfully!!!
+  2022-01-16 19:05:04 INFO  LoggersExample:53 - Tested Euro currency functionality.
+  2022-01-16 19:05:05 INFO  LoggersExample:60 - Tested Pound currency functionality.
+  2022-01-16 19:05:07 INFO  LoggersExample:67 - Tested USDollar functionality.
+  2022-01-16 19:05:07 INFO  LoggersExample:74 - Browser closed successfully!!!
+  2022-01-16 19:05:38 INFO  LoggersExample:42 - Desktop module is enable
+  2022-01-16 19:05:45 INFO  LoggersExample:80 - Browser closed successfully!!!
+  2022-01-16 19:06:05 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:06:25 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:06:26 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:06:28 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:06:29 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-16 19:06:30 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-16 19:06:33 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-16 19:06:35 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-16 19:06:38 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-16 19:06:38 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-16 19:06:39 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-16 19:17:14 INFO  LoggersExample:36 - Tejal
+  2022-01-16 19:17:14 INFO  LoggersExample:45 - Borase
+  2022-01-16 19:17:14 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-16 19:17:14 INFO  LoggersExample:66 - 8698077555
+  2022-01-16 19:17:14 INFO  LoggersExample:74 - tejal
+  2022-01-16 19:17:14 INFO  LoggersExample:82 - tejal
+  2022-01-16 19:19:40 INFO  LoggersExample:34 - Browser opened successfully!!!
+  2022-01-16 19:20:23 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-16 19:21:18 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-16 19:22:37 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-16 19:23:40 INFO  LoggersExample:37 - Browser opened successfully!!!
+  2022-01-16 19:31:38 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:31:38 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:31:39 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:31:39 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:31:41 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:31:41 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:31:42 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-16 19:31:42 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-16 19:31:43 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-16 19:31:43 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-16 19:31:46 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-16 19:31:46 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-16 19:31:47 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-16 19:31:47 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-16 19:31:51 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-16 19:31:51 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-16 19:31:51 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-16 19:31:51 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-16 19:31:52 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-16 19:31:52 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-16 19:31:56 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:31:58 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:31:59 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:32:01 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-16 19:32:02 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-16 19:32:05 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-16 19:32:23 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:32:23 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:32:25 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:32:26 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:32:54 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:32:54 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:32:55 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:32:55 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:32:57 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:32:57 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:32:58 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-16 19:32:59 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-16 19:33:00 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-16 19:33:00 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-16 19:33:03 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-16 19:33:03 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-16 19:33:04 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-16 19:33:04 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-16 19:33:08 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-16 19:33:08 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-16 19:33:08 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-16 19:33:08 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-16 19:33:08 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-16 19:33:09 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-16 19:33:13 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-16 19:33:15 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-16 19:33:16 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-16 19:33:18 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-16 19:33:19 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-16 19:33:22 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-16 19:33:23 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-16 19:33:27 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-16 19:33:27 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-16 19:33:27 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-16 19:58:40 INFO  LoggersExample:36 - Tejal
+  2022-01-16 19:58:40 INFO  LoggersExample:45 - Borase
+  2022-01-16 19:58:40 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-16 19:58:40 INFO  LoggersExample:66 - 8698077555
+  2022-01-16 19:58:40 INFO  LoggersExample:74 - tejal
+  2022-01-16 19:58:40 INFO  LoggersExample:82 - tejal
+  2022-01-16 20:04:04 INFO  LoggersExample:36 - Tejal
+  2022-01-16 20:04:04 INFO  LoggersExample:45 - Borase
+  2022-01-16 20:04:04 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-16 20:04:04 INFO  LoggersExample:66 - 8698077555
+  2022-01-16 20:04:04 INFO  LoggersExample:74 - tejal
+  2022-01-16 20:04:04 INFO  LoggersExample:82 - tejal
+  2022-01-16 20:07:45 INFO  LoggersExample:36 - Tejal
+  2022-01-16 20:07:45 INFO  LoggersExample:45 - Borase
+  2022-01-16 20:07:45 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-16 20:07:45 INFO  LoggersExample:66 - 8698077555
+  2022-01-16 20:07:45 INFO  LoggersExample:74 - tejal
+  2022-01-16 20:07:45 INFO  LoggersExample:82 - tejal
+  2022-01-17 11:46:54 INFO  LoggersExample:36 - Tejal
+  2022-01-17 11:46:54 INFO  LoggersExample:45 - Borase
+  2022-01-17 11:46:54 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-17 11:46:54 INFO  LoggersExample:66 - 8698077555
+  2022-01-17 11:46:54 INFO  LoggersExample:74 - tejal
+  2022-01-17 11:46:54 INFO  LoggersExample:82 - tejal
+  2022-01-17 11:47:03 INFO  LoggersExample:36 - Tejal
+  2022-01-17 11:47:03 INFO  LoggersExample:45 - Borase
+  2022-01-17 11:47:03 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-17 11:47:03 INFO  LoggersExample:66 - 8698077555
+  2022-01-17 11:47:03 INFO  LoggersExample:74 - tejal
+  2022-01-17 11:47:03 INFO  LoggersExample:82 - tejal
+  2022-01-17 11:55:36 INFO  LoggersExample:36 - Tejal
+  2022-01-17 11:55:36 INFO  LoggersExample:45 - Borase
+  2022-01-17 11:55:36 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-17 11:55:36 INFO  LoggersExample:66 - 8698077555
+  2022-01-17 11:55:36 INFO  LoggersExample:74 - tejal
+  2022-01-17 11:55:36 INFO  LoggersExample:82 - tejal
+  2022-01-17 11:57:54 INFO  LoggersExample:36 - Tejal
+  2022-01-17 11:57:54 INFO  LoggersExample:45 - Borase
+  2022-01-17 11:57:54 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-17 11:57:54 INFO  LoggersExample:66 - 8698077555
+  2022-01-17 11:57:54 INFO  LoggersExample:74 - tejal
+  2022-01-17 11:57:54 INFO  LoggersExample:82 - tejal
+  2022-01-17 13:10:17 INFO  LoggersExample:36 - Tejal
+  2022-01-17 13:10:17 INFO  LoggersExample:45 - Borase
+  2022-01-17 13:10:17 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-17 13:10:17 INFO  LoggersExample:66 - 8698077555
+  2022-01-17 13:10:18 INFO  LoggersExample:74 - tejal
+  2022-01-17 13:10:18 INFO  LoggersExample:82 - tejal
+  2022-01-17 13:16:16 INFO  LoggersExample:36 - Tejal
+  2022-01-17 13:16:19 INFO  LoggersExample:45 - Borase
+  2022-01-17 13:16:19 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-17 13:16:21 INFO  LoggersExample:66 - 8698077555
+  2022-01-17 13:16:22 INFO  LoggersExample:74 - tejal
+  2022-01-17 13:16:23 INFO  LoggersExample:82 - tejal
+  2022-01-17 13:17:39 INFO  LoggersExample:51 - Browser opened successfully!!!
+  2022-01-17 13:17:46 INFO  LoggersExample:83 - Tested Euro currency functionality.
+  2022-01-17 13:17:48 INFO  LoggersExample:90 - Tested Pound currency functionality.
+  2022-01-17 13:17:49 INFO  LoggersExample:97 - Tested USDollar functionality.
+  2022-01-17 13:18:03 INFO  LoggersExample:108 - Shopping cart is empty! Added product
+  2022-01-17 13:18:09 INFO  LoggersExample:75 - Updated count of item in cart
+  2022-01-17 13:18:10 INFO  LoggersExample:120 - Tested Update items in cart functionality.
+  2022-01-17 13:18:16 INFO  LoggersExample:36 - Tejal
+  2022-01-17 13:18:19 INFO  LoggersExample:45 - Borase
+  2022-01-17 13:18:20 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-17 13:18:22 INFO  LoggersExample:84 - Clicked on remove button
+  2022-01-17 13:18:22 INFO  LoggersExample:142 - Tested Remove item from cart functionality.
+  2022-01-17 13:18:24 INFO  LoggersExample:66 - 8698077555
+  2022-01-17 13:18:26 INFO  LoggersExample:74 - tejal
+  2022-01-17 13:18:26 INFO  LoggersExample:82 - tejal
+  2022-01-17 13:18:28 INFO  LoggersExample:150 - Browser closed successfully!!!
+  2022-01-18 11:05:27 INFO  LoggersExample:36 - Tejal
+  2022-01-18 11:05:27 INFO  LoggersExample:45 - Borase
+  2022-01-18 11:05:27 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-18 11:05:27 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 11:05:27 INFO  LoggersExample:74 - tejal
+  2022-01-18 11:05:27 INFO  LoggersExample:82 - tejal
+  2022-01-18 11:06:07 INFO  LoggersExample:36 - Tejal
+  2022-01-18 11:06:07 INFO  LoggersExample:45 - Borase
+  2022-01-18 11:06:07 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-18 11:06:07 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 11:06:07 INFO  LoggersExample:74 - tejal
+  2022-01-18 11:06:07 INFO  LoggersExample:82 - tejal
+  2022-01-18 11:15:50 INFO  LoggersExample:345 - test passed sucessfully
+  2022-01-18 11:17:40 INFO  LoggersExample:36 - Tejal
+  2022-01-18 11:17:40 INFO  LoggersExample:45 - Borase
+  2022-01-18 11:17:43 INFO  LoggersExample:54 - tejal@gmail.com
+  2022-01-18 11:17:48 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 11:17:50 INFO  LoggersExample:74 - tejal
+  2022-01-18 11:17:53 INFO  LoggersExample:82 - tejal
+  2022-01-18 11:18:23 INFO  LoggersExample:345 - test passed sucessfully
+  2022-01-18 12:05:40 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:05:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:05:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:05:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:05:40 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:07:50 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:07:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:07:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:07:50 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:07:50 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:20:56 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:20:56 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:20:56 INFO  LoggersExample:54 - tejal15@gmail.com
+  2022-01-18 12:20:56 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:20:56 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:20:56 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:21:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:21:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:21:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:21:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:21:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:22:12 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:22:12 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:22:13 INFO  LoggersExample:54 - tejal15@gmail.com
+  2022-01-18 12:22:13 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:22:13 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:22:13 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:22:17 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:22:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:22:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:22:17 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:22:17 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:22:49 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:22:49 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:22:50 INFO  LoggersExample:54 - tejal15@gmail.com
+  2022-01-18 12:22:50 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:22:50 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:22:50 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:22:54 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:22:54 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:22:54 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:23:38 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:23:38 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:23:38 INFO  LoggersExample:54 - tejal15@gmail.com
+  2022-01-18 12:23:38 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:23:38 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:23:38 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:23:42 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:23:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:23:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:23:42 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:23:42 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:24:31 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:24:31 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:24:31 INFO  LoggersExample:54 - tejal15@gmail.com
+  2022-01-18 12:24:31 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:24:31 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:24:31 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:24:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:24:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:24:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:24:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:24:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:25:28 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:25:28 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:25:28 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:25:28 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:25:28 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:25:28 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:25:32 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:25:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:25:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:25:32 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:25:32 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:31:57 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:31:57 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:31:59 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:32:02 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:32:03 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:32:06 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:32:12 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:32:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:32:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:32:12 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:32:12 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:32:29 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:32:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:32:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:32:29 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:32:29 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:39:56 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:39:56 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:39:56 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:39:56 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:39:56 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:39:56 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:40:00 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:40:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:40:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:40:00 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:40:00 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:41:39 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:41:39 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:41:40 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:41:40 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:41:40 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:41:40 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:42:20 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:42:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:42:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:42:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:42:20 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:44:25 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:44:25 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:44:25 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:44:25 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:44:26 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:44:26 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:45:06 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:45:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:45:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:45:06 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:45:06 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:47:33 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:47:33 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:47:33 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:47:33 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:47:33 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:47:33 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:47:58 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:47:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:47:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:47:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:47:58 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:50:06 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:50:06 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:50:06 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:50:06 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:50:06 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:50:07 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:50:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:50:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:50:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:50:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:50:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:52:55 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:52:55 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:52:55 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:52:55 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:52:55 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:52:55 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:54:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:54:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:54:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:56:21 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:56:21 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:56:21 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:56:21 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:56:21 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:56:21 INFO  LoggersExample:82 - tejal
+  2022-01-18 12:57:21 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 12:57:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 12:57:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 12:57:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 12:57:21 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 12:59:53 INFO  LoggersExample:36 - Tejal
+  2022-01-18 12:59:53 INFO  LoggersExample:45 - Borase
+  2022-01-18 12:59:53 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 12:59:53 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 12:59:53 INFO  LoggersExample:74 - tejal
+  2022-01-18 12:59:53 INFO  LoggersExample:82 - tejal
+  2022-01-18 13:00:36 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 13:00:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 13:00:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 13:00:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 13:00:36 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-18 13:02:35 INFO  LoggersExample:36 - Tejal
+  2022-01-18 13:02:35 INFO  LoggersExample:45 - Borase
+  2022-01-18 13:02:35 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-18 13:02:35 INFO  LoggersExample:66 - 8698077555
+  2022-01-18 13:02:35 INFO  LoggersExample:74 - tejal
+  2022-01-18 13:02:35 INFO  LoggersExample:82 - tejal
+  2022-01-18 13:03:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-18 13:03:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-18 13:03:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-18 13:03:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-18 13:03:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-19 10:16:30 INFO  LoggersExample:36 - Tejal
+  2022-01-19 10:16:30 INFO  LoggersExample:45 - Borase
+  2022-01-19 10:16:30 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-19 10:16:30 INFO  LoggersExample:66 - 8698077555
+  2022-01-19 10:16:30 INFO  LoggersExample:74 - tejal
+  2022-01-19 10:16:30 INFO  LoggersExample:82 - tejal
+  2022-01-19 10:17:52 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-19 10:17:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-19 10:17:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-19 10:17:52 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-19 10:17:52 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-19 10:29:13 INFO  LoggersExample:36 - Tejal
+  2022-01-19 10:29:13 INFO  LoggersExample:45 - Borase
+  2022-01-19 10:29:13 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-19 10:29:13 INFO  LoggersExample:66 - 8698077555
+  2022-01-19 10:29:13 INFO  LoggersExample:74 - tejal
+  2022-01-19 10:29:13 INFO  LoggersExample:82 - tejal
+  2022-01-19 10:30:27 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-19 10:30:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-19 10:30:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-19 10:30:27 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-19 10:30:27 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-19 10:35:33 INFO  LoggersExample:36 - Tejal
+  2022-01-19 10:35:33 INFO  LoggersExample:45 - Borase
+  2022-01-19 10:35:33 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-19 10:35:33 INFO  LoggersExample:66 - 8698077555
+  2022-01-19 10:35:33 INFO  LoggersExample:74 - tejal
+  2022-01-19 10:35:33 INFO  LoggersExample:82 - tejal
+  2022-01-19 10:37:57 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-19 10:37:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-19 10:37:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-19 10:37:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-19 10:37:57 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-19 10:43:59 INFO  LoggersExample:36 - Tejal
+  2022-01-19 10:43:59 INFO  LoggersExample:45 - Borase
+  2022-01-19 10:43:59 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-19 10:43:59 INFO  LoggersExample:66 - 8698077555
+  2022-01-19 10:43:59 INFO  LoggersExample:74 - tejal
+  2022-01-19 10:43:59 INFO  LoggersExample:82 - tejal
+  2022-01-19 10:45:16 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-19 10:45:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-19 10:45:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-19 10:45:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-19 10:45:16 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-19 10:51:58 INFO  LoggersExample:36 - Tejal
+  2022-01-19 10:51:58 INFO  LoggersExample:45 - Borase
+  2022-01-19 10:51:59 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-19 10:51:59 INFO  LoggersExample:66 - 8698077555
+  2022-01-19 10:51:59 INFO  LoggersExample:74 - tejal
+  2022-01-19 10:51:59 INFO  LoggersExample:82 - tejal
+  2022-01-19 10:53:23 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-19 10:53:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-19 10:53:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-19 10:53:23 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-19 10:53:23 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  2022-01-19 10:54:33 INFO  LoggersExample:36 - Tejal
+  2022-01-19 10:54:33 INFO  LoggersExample:45 - Borase
+  2022-01-19 10:54:33 INFO  LoggersExample:54 - tejal1553@gmail.com
+  2022-01-19 10:54:33 INFO  LoggersExample:66 - 8698077555
+  2022-01-19 10:54:33 INFO  LoggersExample:74 - tejal
+  2022-01-19 10:54:33 INFO  LoggersExample:82 - tejal
+  2022-01-19 10:56:04 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+  2022-01-19 10:56:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+  2022-01-19 10:56:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+  2022-01-19 10:56:04 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+  2022-01-19 10:56:04 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/tejal_borase/Downloads/jar_files%20(2)/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+  
